@@ -1,0 +1,25 @@
+{
+  "AnimCfg": [
+    {
+      "Id": "KoalaIdle",
+      "SpriteCount": 6,
+      "SpriteName": "Koala_Idle_",
+      "FolderPath": "Sprites/Koala/KoalaIdle",
+      "AnimatorRate": 20
+    },
+    {
+      "Id": "KoalaJump",
+      "SpriteCount": 13,
+      "SpriteName": "Koala_Jump_",
+      "FolderPath": "Sprites/Koala/KoalaJump",
+      "AnimatorRate": 20
+    },
+    {
+      "Id": "KoalaRun",
+      "SpriteCount": 11,
+      "SpriteName": "Koala_Run_",
+      "FolderPath": "Sprites/Koala/KoalaRun",
+      "AnimatorRate": 22
+    }
+  ]
+}

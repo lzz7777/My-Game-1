@@ -1,0 +1,13 @@
+{
+  "RoleCfg": [
+    {
+      "Id": "Koala",
+      "AnimationId": [
+        "Idle:KoalaIdle",
+        "Jump:KoalaJump",
+        "RUn:KoalaRun"
+      ],
+      "IsPlayer": 1
+    }
+  ]
+}
